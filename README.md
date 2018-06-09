@@ -8,7 +8,7 @@ Tersedia di playstore: <br>
 GoWarkop (Owner) adalah Aplikasi android yang dirancang khusus untuk Owner GoWarkop.<br>
 Berikut adalah fitur-fitur andalan GoWarkop(Owner):<br>
 - Owner dapat menerima/menolak pesanan yang dilakukan customer<br>
--Owner dapat menambahkan atau menghapus daftar menu.<br>
+- Owner dapat menambahkan atau menghapus daftar menu.<br>
 - Owner dapat melakukan verifikasi pesanan<br>
 
 Apa itu GoWarkop?<br>
